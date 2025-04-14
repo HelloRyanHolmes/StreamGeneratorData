@@ -1,32 +1,82 @@
 {
   "collections": [
     {
-      "name": "Tryan",
-      "AssetsUrlPath": "https://raw.githubusercontent.com/PearlsGenerator/Tryan-Assets/refs/heads/main/",
+      "name": "Panels",
+      "AssetsUrlPath": "https://raw.githubusercontent.com/HelloRyanHolmes/StreamGeneratorAssets/refs/heads/main/",
       "attributes": [
         {
-          "attributeName": "Background",
+          "attributeName": "Panel",
           "maxAttributes": 10,
           "OrderImages": 1
         },
         {
-          "attributeName": "Body",
-          "maxAttributes": 2,
+          "attributeName": "About",
+          "maxAttributes": 10,
           "OrderImages": 2
         },
         {
-          "attributeName": "Outfit",
-          "maxAttributes": 41,
+          "attributeName": "Discord",
+          "maxAttributes": 10,
           "OrderImages": 3
         },
         {
-          "attributeName": "Head",
-          "maxAttributes": 62,
+          "attributeName": "Donate",
+          "maxAttributes": 10,
           "OrderImages": 4
         },
         {
-          "attributeName": "Hand",
-          "maxAttributes": 60,
+          "attributeName": "Setup",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Specs",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Schedule",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Rules",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Subscribe",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Socials",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Instagram",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "TIktok",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Youtube",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Twitter",
+          "maxAttributes": 10,
+          "OrderImages": 5
+        },
+        {
+          "attributeName": "Facebook",
+          "maxAttributes": 10,
           "OrderImages": 5
         }
       ]
